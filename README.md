@@ -1,2 +1,0 @@
-# Rails
-Ruby on rails
